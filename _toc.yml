@@ -1,0 +1,31 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: ANALYSIS
+    chapters:
+    - file: import_data
+    - file: dataframes
+ 
+  - caption: Question 1
+    chapters:
+    - file: q1
+    
+  - caption: Question 2
+    chapters:
+    - file: q2
+    
+  - caption: Question 3
+    chapters:
+    - file: q3
+    
+  - caption: Question 4
+    chapters:
+    - file: q4
+    
+  - caption: DISCUSSION
+    chapters:
+    - file: discussion
+   
